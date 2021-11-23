@@ -1,0 +1,4 @@
+For this assignment, Cole Kashino did book, cancel, query, and improved on the implementation
+to include appointment number
+
+Nick Chi did printFreeDays, printFreeTimeSlots, and the << overload and worked on the testing.
