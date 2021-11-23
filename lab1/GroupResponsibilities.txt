@@ -1,0 +1,9 @@
+Lab Members:
+Cole Kashino - 301436706
+Nick Chu - 301440034
+
+In this lab Cole K worked on the Date class and all its related functions with some help from Nick C. And Nick worked on 
+TimeRange class and all its related functions. For the main.cpp, the work was shared between while Nick C ended up doing more of
+the work in that section.
+
+In the end, both of us ended up doing very similar amount of work.
