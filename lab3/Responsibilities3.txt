@@ -1,0 +1,17 @@
+For this assignment, Cole Kashino did:
+
+constructors
+overloaded assignment operator
+searchNode function
+insertNode function
+Overloaded << operator
+wrote main
+
+Nick Chu did:
+get functions
+destructor
+searchSuccessor
+deleteNode
+wrote more of main
+
+Overall, the work was split 50/50
