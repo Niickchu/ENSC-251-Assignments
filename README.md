@@ -1,5 +1,5 @@
 # Labs
-Class projects for ENSC 251
+## Class projects for ENSC 251
 
 **Lab 1:** Simple calendar system where users can book, cancel and view appointment information for single days.
 
