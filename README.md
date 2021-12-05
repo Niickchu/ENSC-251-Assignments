@@ -10,3 +10,5 @@ Lab 3: Implementation of a BST in C++
 Lab 4: Implementation of a Stack data structure in C++
 
 Proj: Simple graduate student admission system, where student information is read from a file, sorted, and either declines or accepts students based on their academic scoring
+
+Final Project: A graduate student admission system, building upon the previous program. Students are stored in a linked list. Automatic spelling correction, Unit testing, and sorting was implemented
