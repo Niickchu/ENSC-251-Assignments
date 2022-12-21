@@ -1,4 +1,4 @@
-# Labs
+# ENSC-251-Assignments
 ## Class projects for ENSC 251
 
 **Lab 1:** \
