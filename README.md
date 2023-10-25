@@ -13,7 +13,7 @@ Implementation of a BST in C++
 **Lab 4:** \
 Implementation of a Stack data structure in C++
 
-**Proj:** \
+**Interim Project:** \
 Simple graduate student admission system, where student information is read from a file, sorted, and either declines or accepts students based on their academic scoring
 
 **Final Project:** \
